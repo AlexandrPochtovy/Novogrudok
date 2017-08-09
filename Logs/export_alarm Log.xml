@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="export_alarm Log.xml" projectName="C:\Users\sharp\Desktop\export_alarm.xlsx" typeText="Тип" messageText="Сообщение" timeText="Время">
+  <LogEntry type="Information" dateTime="10:11:30">
+    <Message>Импорт завершен: 40 битовых сообщений; 13 аналоговых сообщений</Message>
+  </LogEntry>
+</LogFile>
